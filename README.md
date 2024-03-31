@@ -2,13 +2,13 @@
 
 
 
-### Paid
+## Paid
 
 
 
 
 
-### Free
+## Free
 
 ***Back up files***
 
@@ -36,6 +36,6 @@
 
 
 
-### Extras:
+## Extras:
 
 ***WINDOWS ACTIVATOR:*** **1: Open Powershell as Admin. 2: Type in the following command```irm https://massgrave.dev/get | iex```. 3: Press 1 and wait.
