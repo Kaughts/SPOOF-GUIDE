@@ -1,13 +1,6 @@
 # Spoofing Guide
 
 
-
-## Paid
-
-
-
-
-
 ## Free
 
 ***Back up files***
@@ -18,7 +11,7 @@
 
 ***Flash Bios <u>DOWN</u>***
 
-***Use Spoofers***
+***Use Any Spoofers You Have***
 
 ***Use UnknownCheats spoofer from [C.NET](https://cheater.net/)***
 
